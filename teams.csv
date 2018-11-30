@@ -1,0 +1,64 @@
+Teams,team_long_name,team_short_name
+aut, Austria,          AUT
+bel, Belgium,          BEL
+cyp, Cyprus,           CYP
+ger, Germany,          GER
+est, Estonia,          EST
+esp, Spain,            ESP
+fin, Finland,          FIN
+fra, France,           FRA
+gre, Greece,           GRE
+irl, Ireland,          IRL
+ita, Italy,            ITA
+lux, Luxembourg,       LUX
+mlt, Malta,            MLT
+ned, Netherlands,      NED
+por, Portugal,         POR
+svk, Slovakia,         SVK
+svn, Slovenia,         SVN
+bul, Bulgaria,         BUL
+den, Denmark,          DEN
+lva, Latvija|Latvia,   LVA
+ltu, Lithuania,        LTU
+pol, Poland,           POL
+rou, Romania,          ROU
+swe, Sweden,           SWE
+cze, Czech Republic,   CZE
+hun, Hungary,          HUN
+,,
+,,
+and, Andorra,     AND
+alb, Albania,     ALB
+blr, Belarus,     BLR
+sui, Switzerland, SUI
+cro, Croatia,     CRO
+srb, Serbia,      SRB
+rus, Russia,      RUS
+tur, Turkey,      TUR
+ukr, Ukraine,     UKR
+mkd, Macedonia,   MKD
+nor, Norway,      NOR
+isl, Iceland,     ISL
+,,
+bih, Bosnia-Herzegovina|Bosnia and Herzegovina|Bosnia|Bosnia-Herz., BIH
+lie, Liechtenstein,          LIE
+mne, Montenegro,             MNE
+mda, Moldova,                MDA
+smr, San Marino,             SMR
+,,
+geo, Georgia,      GEO
+arm, Armenia,      ARM
+aze, Azerbaijan,   AZE
+,,
+,,
+,,
+eng, England,       ENG
+sco, Scotland,      SCO
+wal, Wales,         WAL
+nir, Northern Ireland|N. Ireland, NIR
+,,
+,,
+fro, Faroe Islands,  FRO
+,,
+,,
+gib, Gibraltar,      GIB
